@@ -1,3 +1,6 @@
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
+
+
 #EXTM3U  x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-url="https://AqFad2811.github.io/epg/compressed/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 <================================= CHANNEL ON TV ================================>
