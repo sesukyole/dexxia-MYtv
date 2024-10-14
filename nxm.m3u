@@ -2214,112 +2214,119 @@ https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.m
 
 
 
-########################################################################RADIO#########################################################################################
+######################################################################## ON RADIOMY #########################################################################################
 
 
+#EXTINF:-1 tvg-id="ZAYAN" tvg-name="ZAYAN" ch-number="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png" group-title="ON RADIOMY",ZAYAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"isbT6tRhxcFJerJai9H2GQ", "kid":"+DZv2Gbg71ISaLU0RiA2EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_primary.mpd
 
-
-#EXTINF:-1 tvg-id="CHN" group-title="RADIO" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="https://media2.fishtank.my/stations/astro-kbs-world/updated/square_md.png",KBS World Radio
+#EXTINF:-1 tvg-id="CHN" group-title="ON RADIOMY" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="https://media2.fishtank.my/stations/astro-kbs-world/updated/square_md.png",KBS World Radio
 https://hls.rastream.com/astro-kbs-world
 
-#EXTINF:-1 tvg-id="CHN" group-title="RADIO" tvg-logo="https://i.ibb.co/YkgKd5y/Boom-Radio.png",Boom Radio
+#EXTINF:-1 tvg-id="CHN" group-title="ON RADIOMY" tvg-logo="https://i.ibb.co/YkgKd5y/Boom-Radio.png",Boom Radio
 https://hls.rastream.com/astro-boom-radio
 
-#EXTINF:-1 tvg-id="CHN" group-title="RADIO" tvg-logo="https://media2.fishtank.my/stations/astro-red-radio/square_md.png",Red Radio
+#EXTINF:-1 tvg-id="CHN" group-title="ON RADIOMY" tvg-logo="https://media2.fishtank.my/stations/astro-red-radio/square_md.png",Red Radio
 https://hls.rastream.com/astro-red-radio
 
-#EXTINF:-1 tvg-id="CHN" group-title="RADIO" tvg-logo="https://i.ibb.co/Gk429L1/logo-t.png",RAKITA
+#EXTINF:-1 tvg-id="CHN" group-title="ON RADIOMY" tvg-logo="https://i.ibb.co/Gk429L1/logo-t.png",RAKITA
 https://23683.live.streamtheworld.com/RAKITAAAC.aac
 
+#EXTINF:-1 tvg-id="NASFM" tvg-name="NASFM" ch-number="869" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/25_144.png" group-title="ON RADIOMY",NAS FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nAgyqNvDbSq1iSYA6mlg/Q", "kid":"rowgBwxwYzOtEyMPBUEcEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/129/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="CHN" group-title="RADIO" ch-number="828" tvg-logo="https://i.ibb.co/6R5zhKn/23b9fa60d48cd96820eeec7e59148ccb.jpg",Best Of TikTok
+#EXTINF:-1 tvg-id="CHN" group-title="ON RADIOMY" ch-number="828" tvg-logo="https://i.ibb.co/6R5zhKn/23b9fa60d48cd96820eeec7e59148ccb.jpg",Best Of TikTok
 http://node-10.zeno.fm:80/6cf3bsmbyf9uv
 
-#EXTINF:-1 tvg-id="CHN" group-title="RADIO" ch-number="829" tvg-logo="https://i.ibb.co/VxVPSVj/Radio-Klasik-logo.png",Melayu Klasik
+#EXTINF:-1 tvg-id="CHN" group-title="ON RADIOMY" ch-number="829" tvg-logo="https://i.ibb.co/VxVPSVj/Radio-Klasik-logo.png",Melayu Klasik
 http://node-17.zeno.fm:80/s93mzhh7yf9uv
 
 
 
-#EXTINF:-1 group-title="RADIO" tvg-id="CHN" ch-number="721" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400", Hot FM
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="CHN" ch-number="721" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400", Hot FM
 https://mediaprima.rastream.com/mediaprima-hotfm
 
-#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400", Hot FM (YouTube Live)
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400", Hot FM (YouTube Live)
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
 
-#EXTINF:-1 group-title="RADIO" tvg-id="CHN" ch-number="722" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624",Buletin FM
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="CHN" ch-number="722" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624",Buletin FM
 https://mediaprima.rastream.com/mediaprima-koolfm
 
 
-#EXTINF:-1 group-title="RADIO" tvg-id="CHN" ch-number="723" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738",Fly FM
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="CHN" ch-number="723" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738",Fly FM
 https://mediaprima.rastream.com/mediaprima-flyfm
 
 
-#EXTINF:-1 group-title="RADIO" tvg-id="CHN" ch-number="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="CHN" ch-number="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
-#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM (YouTube Live)
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM (YouTube Live)
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
 
-#EXTINF:-1 group-title="RADIO" tvg-id="CHN" ch-number="725" tvg-logo="https://i.ibb.co/dPshJ69/d9bb396880948b6845872f6eb6df281f.png",Molek FM
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="CHN" ch-number="725" tvg-logo="https://i.ibb.co/dPshJ69/d9bb396880948b6845872f6eb6df281f.png",Molek FM
 https://mediaprima.rastream.com/mediaprima-molekfm
 
-#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-logo="https://i.ibb.co/dPshJ69/d9bb396880948b6845872f6eb6df281f.png",Molek FM (YouTube Live)
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="CHN" tvg-logo="https://i.ibb.co/dPshJ69/d9bb396880948b6845872f6eb6df281f.png",Molek FM (YouTube Live)
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
 
-#EXTINF:-1 group-title="RADIO" tvg-id="HITZ" ch-number="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="HITZ" ch-number="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ
 https://stream.rcs.revma.com/488kt4sbv4uvv/4_wz3vwwfr778l02/playlist.m3u8
 
 
-#EXTINF:-1 group-title="RADIO" tvg-id="MY" ch-number="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png", MY
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="MY" ch-number="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png", MY
 https://stream.rcs.revma.com/hc3unrtbv4uvv/5_2nil8rpupjuw02/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="RADIO" tvg-id="LITE" ch-number="854" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",LITE
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="LITE" ch-number="854" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",LITE
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Lite.m3u8
 
-#EXTINF:-1 group-title="RADIO" tvg-id="MIX" ch-number="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="MIX" ch-number="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX
 https://stream.rcs.revma.com/v5pq3htbv4uvv/1_1iq54zaftd1pn02/playlist.m3u8
 
 
-#EXTINF:-1 group-title="RADIO" tvg-id="ERA" ch-number="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="ERA" ch-number="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA
 https://stream.rcs.revma.com/crec9cmbv4uvv/5_169p6814wdxdj02/playlist.m3u8
 
-#EXTINF:-1 group-title="RADIO" tvg-id="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA (YouTube Live)
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA (YouTube Live)
 https://stream.rcs.revma.com/crec9cmbv4uvv/5_169p6814wdxdj02/playlist.m3u8
 
-#EXTINF:-1 group-title="RADIO" tvg-id="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR
 https://stream.rcs.revma.com/azatk0tbv4uvv/5_38voejof20x202/playlist.m3u8
 
 
-#EXTINF:-1 group-title="RADIO" tvg-id="MELODY" ch-number="858" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="MELODY" ch-number="858" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY
 https://n07a-eu.rcs.revma.com/2u1n6dtbv4uvv/7_w0cr3cmmz25o02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjFwRjLEAEt28uBBwa5thng
 
 
 
-#EXTINF:-1 group-title="RADIO" tvg-id="GEGAR" ch-number="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="GEGAR" ch-number="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
 Request URL:
 https://stream.rcs.revma.com/cn0zcqsbv4uvv/1_1x9iy8cr54xp802/playlist.m3u8
 
 
-#EXTINF:-1 group-title="RADIO" tvg-id="RTMK10" ch-number="869" tvg-logo="https://user-images.githubusercontent.com/85995579/128818868-1f01f150-d8ec-4d0a-913c-efbd58b35536.png",Nasional FM
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="RTMK10" ch-number="869" tvg-logo="https://user-images.githubusercontent.com/85995579/128818868-1f01f150-d8ec-4d0a-913c-efbd58b35536.png",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
 
 
 
-#EXTINF:-1 group-title="RADIO" tvg-id="RTMK12" ch-number="874" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/303_144.png",AI FM
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="RTMK12" ch-number="874" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/303_144.png",AI FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC
 
-#EXTINF:-1 group-title="RADIO" tvg-id="RTMK14" ch-number="875" tvg-logo="https://i.ibb.co/3zdWD5z/s55250q.png",ASYIK FM
+#EXTINF:-1 group-title="ON RADIOMY" tvg-id="RTMK14" ch-number="875" tvg-logo="https://i.ibb.co/3zdWD5z/s55250q.png",ASYIK FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC.aac
 
 
-#EXTINF:-1 tvg-id="CHN" ch-number="878" group-title="RADIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",Astro Awani Radio
+#EXTINF:-1 tvg-id="CHN" ch-number="878" group-title="ON RADIOMY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",Astro Awani Radio
 https://d37ey7ubht2hh2.cloudfront.net/out/v1/2d4a3d04aa404f3f8860da4a3ae25817/index_2.m3u8
 
 
-#EXTINF:-1, group-title="RADIO" tvg-id="CHN" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",Radio IKIM
+#EXTINF:-1, group-title="ON RADIOMY" tvg-id="CHN" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",Radio IKIM
 https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=656f3685170c9d84_563629_0cAwv1Pr_MTAzLjIxLjgxLjM6ODA!_0000000hbXA&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE3MDIzNTA4NTYsImV4cCI6MTcwMjQzNzI1Nn0.fRRpdFMfBhEICYhCvDfljDMy1Tns1lYJU-OSHZ4tWV0&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=afac2f3d6061e960167fe755466b0eab
 
 
@@ -2801,3 +2808,354 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 #EXTINF:-1 tvg-id="" group-title="ON STAR" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png",Animal Planet
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+
+
+
+
+
+
+##################AL-QURAN###############
+
+#EXTINF:-1, group-title="Al-Quran 30 JUZ FULL(Audio Only)" tvg-id="Dummy" group-logo="https://i.ibb.co/m6VybZd/AL-QURAN.png"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [001] Surah Alfatihah (Pembukaan)
+https://www.youtube.com/watch?v=6x705qTUlfA
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [002] Surah Al-Baqarah (Lembu Betina)
+https://www.youtube.com/watch?v=Pc3Csg1Ydu0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [003] Surah Ali 'Imran (Keluarga Imran)
+https://www.youtube.com/watch?v=cWsjXAEKdJM&list=PLj66l-DQ4OehgTfUFlAlBqe2OJ5d8Tjf0&index=3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [004] Surah An-Nisaa' (Wanita)
+https://archive.org/download/alquran_collections/%5B004%5D%20Surah%20An-Nisa.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [005] Surah Al-Maa'idah (Hidangan)
+https://archive.org/download/alquran_collections/%5B005%5D%20Surah%20Al-Maidah.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [006] Surah Al-An'aam (Binatang Ternakan)
+https://ia600701.us.archive.org/33/items/terjemahan_al-quran/%5B006%5D%20Surah%20Al-An%27am%20dengan%20terjemahan%20Bahasa%20Melayu%20%D8%B3%D9%88%D8%B1%D8%A9%20%D9%B1%D9%84%D9%92%D8%A3%D9%8E%D9%86%D9%92%D8%B9%D9%8E%D8%A7%D9%85.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [007] Surah Al-A'raaf (Tempat Tertinggi)
+https://ia800602.us.archive.org/20/items/alquran_collections/%5B007%5D%20Surah%20Al-A%27raf.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [008] Surah Al-Anfaal (Rampasan Perang)
+https://ia600701.us.archive.org/33/items/terjemahan_al-quran/%5B008%5D%20Surah%20Al-Anfal%20dengan%20terjemahan%20Bahasa%20Melayu%20%D8%B3%D9%88%D8%B1%D8%A9%20%D9%B1%D9%84%D9%92%D8%A3%D9%8E%D9%86%D9%92%D9%81%D9%8E%D8%A7%D9%84.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [009] Surah At-Taubah (Pengampunan)
+https://ia600701.us.archive.org/33/items/terjemahan_al-quran/%5B009%5D%20Surah%20At-Taubah%20dengan%20terjemahan%20Bahasa%20Melayu%20%D8%B3%D9%88%D8%B1%D8%A9%20%D9%B1%D9%84%D8%AA%D9%8E%D9%91%D9%88%D9%92%D8%A8%D9%8E%D8%A9.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [010] Surah Yunus (Nabi Yunus a.s.)
+https://archive.org/download/MurotalMR/010.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [011] Surah Hud (Nabi Hud a.s.)
+https://archive.org/download/MurotalMR/011.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [012] Surah Yusuf (Nabi Yusuf a.s.)
+https://archive.org/download/MurotalMR/012.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [013] Surah Ar-Ra'd (Guruh)
+https://archive.org/download/MurotalMR/013.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [014] Surah Ibrahim (Nabi Ibrahim a.s.)
+https://archive.org/download/MurotalMR/014.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [015] Surah Al-Hijr (Kawasan Berbatu)
+https://archive.org/download/MurotalMR/015.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [016] Surah An-Nahl (Lebah)
+https://archive.org/download/MurotalMR/016.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [017] Surah Al-Israa' (Perjalanan Malam)
+https://archive.org/download/MurotalMR/017.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [018] Surah Al-Kahfi (Gua)
+https://archive.org/download/MurotalMR/018.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [019] Surah Maryam (Siti Maryam)
+https://archive.org/download/MurotalMR/019.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [020] Surah Taahaa
+https://archive.org/download/MurotalMR/020.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [021] Surah Al-Anbiyaa' (Para Nabi)
+https://archive.org/download/MurotalMR/021.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [022] Surah Al-Hajj (Haji)
+https://archive.org/download/MurotalMR/022.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [023] Surah Al-Mu'minun (Golongan yang Beriman)
+https://archive.org/download/MurotalMR/023.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [024] Surah An-Nuur (Cahaya)
+https://archive.org/download/MurotalMR/024.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [025] Surah Al-Furqaan (Pembeza Kebenaran dan Kebatilan)
+https://archive.org/download/MurotalMR/025.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [026] Surah Asy-Syu'araa (Para Penyair)
+https://archive.org/download/MurotalMR/026.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [027] Surah An-Naml (Semut)
+https://archive.org/download/MurotalMR/027.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [028] Surah Al-Qasas (Cerita-cerita)
+https://archive.org/download/MurotalMR/028.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [029] Surah Al-'Ankabut (Labah-labah)
+https://archive.org/download/MurotalMR/029.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [030] Surah Ar-Rum (Bangsa Rom)
+https://archive.org/download/MurotalMR/030.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [031] Surah Luqman (Luqman)
+https://archive.org/download/MurotalMR/031.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [032] Surah As-Sajdah (Sujud)
+https://archive.org/download/MurotalMR/032.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [033] Surah Al-Ahzab (Golongan yang Bersekutu)
+https://archive.org/download/MurotalMR/033.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [034] Surah Saba' (Kaum Saba')
+https://archive.org/download/MurotalMR/034.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [035] Surah Faatir (Pencipta)
+https://archive.org/download/MurotalMR/035.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [036] Surah Yaasin
+https://archive.org/download/MurotalMR/036.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [037] Surah As-Saaffat (Yang Teratur Berbaris)
+https://archive.org/download/MurotalMR/037.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [038] Surah Saad
+https://archive.org/download/MurotalMR/038.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [039] Surah Az-Zumar (Rombongan)
+https://archive.org/download/MurotalMR/039.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [040] Surah Al-Ghafir / Al-Mu'min (Orang yang Beriman)
+https://archive.org/download/MurotalMR/040.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [041] Surah Fussilat (Dijelaskan)
+https://archive.org/download/MurotalMR/041.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [042] Surah Asy-Syuraa (Permesyuaratan)
+https://archive.org/download/MurotalMR/042.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [043] Surah Az-Zukhruf (Perhiasan Emas)
+https://archive.org/download/MurotalMR/043.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [044] Surah Ad-Dukhaan (Kabut / Asap)
+https://archive.org/download/MurotalMR/044.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [045] Surah Al-Jatsiyah (Yang Berlutut)
+https://archive.org/download/MurotalMR/045.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [046] Surah Al-Ahqaaf (Bukit-bukit Pasir)
+https://archive.org/download/MurotalMR/046.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [047] Surah Muhammad (Nabi Muhammad SAW)
+https://archive.org/download/MurotalMR/047.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [048] Surah Al-Fath (Kemenangan)
+https://archive.org/download/MurotalMR/048.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [049] Surah Al-Hujurat (Bilik-bilik)
+https://archive.org/download/MurotalMR/049.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [050] Surah Qaaf
+https://archive.org/download/MurotalMR/050.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)
+https://archive.org/download/MurotalMR/051.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [052] Surah At-Tur (Bukit)
+https://archive.org/download/MurotalMR/052.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [053] Surah An-Najm (Bintang)
+https://archive.org/download/MurotalMR/053.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [054] Surah Al-Qamar (Bulan)
+https://archive.org/download/MurotalMR/054.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [055] Surah Ar-Rahman (Yang Maha Pemurah)
+https://archive.org/download/MurotalMR/055.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [056] Surah Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)
+https://archive.org/download/MurotalMR/056.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [057] Surah Al-Hadid (Besi)
+https://archive.org/download/MurotalMR/057.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [058] Surah Al-Mujadilah (Perempuan yang Merayu)
+https://archive.org/download/MurotalMR/058.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [059] Surah Al-Hasyr (Pengusiran)
+https://archive.org/download/MurotalMR/059.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [060] Surah Al-Mumtahanah (Perempuan yang Diuji)
+https://archive.org/download/MurotalMR/060.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [061] Surah As-Saf (Barisan)
+https://archive.org/download/MurotalMR/061.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [062] Surah Al-Jumu'ah (Hari Jumaat)
+https://archive.org/download/MurotalMR/062.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [063] Surah Al-Munafiquun (Golongan Munafik)
+https://archive.org/download/MurotalMR/063.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [064] Surah At-Taghabun (Dinampakkan Kesalahan)
+https://archive.org/download/MurotalMR/064.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [065] Surah At-Talaq (Cerai / Talak)
+https://archive.org/download/MurotalMR/065.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [066] Surah At-Tahrim (Mengharamkan)
+https://archive.org/download/MurotalMR/066.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [067] Surah Al-Mulk (Kerajaan)
+https://archive.org/download/MurotalMR/067.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [068] Surah Al-Qalam (Pena / Kalam)
+https://archive.org/download/MurotalMR/068.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
+https://archive.org/download/MurotalMR/069.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [070] Surah Al-Ma'arij (Tempat-tempat Naik)
+https://archive.org/download/MurotalMR/070.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [071] Surah Nuh (Nabi Nuh a.s.)
+https://archive.org/download/MurotalMR/071.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [072] Surah A-Jin (Jin)
+https://archive.org/download/MurotalMR/072.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [073] Surah Al-Muzammil (Yang Berselimut)
+https://archive.org/download/MurotalMR/073.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [074] Surah Al-Muddathir (Yang Berselubung)
+https://archive.org/download/MurotalMR/074.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)
+https://archive.org/download/MurotalMR/075.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [076] Surah Al-Insaan (Manusia)
+https://archive.org/download/MurotalMR/076.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [077] Surah Al-Mursalat (Malaikat Yang Diutus)
+https://archive.org/download/MurotalMR/077.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [078] Surah An-Naba' (Berita Besar)
+https://archive.org/download/MurotalMR/078.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [079] Surah An-Naazi'aat (Malaikat Yang Mencabut)
+https://archive.org/download/MurotalMR/079.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [080] Surah 'Abasa (Dia Bermasam Muka)
+https://archive.org/download/MurotalMR/080.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [081] Surah At-Takwiir (Menggulung)
+https://archive.org/download/MurotalMR/081.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [082] Surah Al-Infitar (Terpecah & Terbelah)
+https://archive.org/download/MurotalMR/082.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [083] Surah Al-Mutaffifiin (Golongan yang Curang)
+https://archive.org/download/MurotalMR/083.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [084] Surah Al-Insyiqaaq (Terbelah)
+https://archive.org/download/MurotalMR/084.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [085] Surah Al-Buruj (Gugusan Bintang)
+https://archive.org/download/MurotalMR/085.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [086] Surah At-Taariq (Pengunjung Malam)
+https://archive.org/download/MurotalMR/086.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [087] Surah Al-A'laa (Yang Tertinggi)
+https://archive.org/download/MurotalMR/087.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
+https://archive.org/download/MurotalMR/088.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [089] Surah Al-Fajr (Fajar / Sinar Mentari)
+https://archive.org/download/MurotalMR/089.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [090] Surah Al-Balad (Negeri)
+https://archive.org/download/MurotalMR/090.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [091] Surah Asy-Syams (Matahari)
+https://archive.org/download/MurotalMR/091.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [092] Surah Al-Lail (Malam)
+https://archive.org/download/MurotalMR/092.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
+https://archive.org/download/MurotalMR/093.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)
+https://archive.org/download/MurotalMR/094.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [095] Surah At-Tin (Buah Tin / Buah Ara)
+https://archive.org/download/MurotalMR/095.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [096] Surah Al-'Alaq (Segumpal Darah)
+https://archive.org/download/MurotalMR/096.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [097] Surah Al-Qadr (Kemuliaan)
+https://archive.org/download/MurotalMR/097.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [098] Surah Al-Baiyinah (Bukti yang Nyata)
+https://archive.org/download/MurotalMR/098.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [099] Surah Al-Zalzalah (Kegoncangan)
+https://archive.org/download/MurotalMR/099.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [100] Surah Al-'Aadiyaat (Yang Berlari Kencang)
+https://archive.org/download/MurotalMR/100.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)
+https://archive.org/download/MurotalMR/101.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [102] Surah At-Takathur (Bermegah-Megah)
+https://archive.org/download/MurotalMR/102.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [103] Surah Al-'Asr (Masa)
+https://archive.org/download/MurotalMR/103.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [104] Surah Al-Humazah (Pengumpat)
+https://archive.org/download/MurotalMR/104.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [105] Surah Al-Fiil (Gajah)
+https://archive.org/download/MurotalMR/105.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [106] Surah Quraisy (Kaum Quraisy)
+https://archive.org/download/MurotalMR/106.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [107] Surah Al-Ma'un (Barangan Berguna)
+https://archive.org/download/MurotalMR/107.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [108] Surah Al-Kauthar (Sungai Di Syurga)
+https://archive.org/download/MurotalMR/108.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [109] Surah Al-Kafirun (Golongan Kafir)
+https://archive.org/download/MurotalMR/109.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [110] Surah An-Nasr (Pertolongan)
+https://archive.org/download/MurotalMR/110.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [111] Surah Al-Masad / Al-Lahab (Nyalaan Api)
+https://archive.org/download/MurotalMR/111.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)
+https://archive.org/download/MurotalMR/112.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [113] Surah Al-Falaq (Waktu Subuh / Dinihari)
+https://archive.org/download/MurotalMR/113.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Quran 30 JUZ FULL(Audio Only)", [114] Surah An-Naas (Manusia)
+https://archive.org/download/MurotalMR/114.mp3
