@@ -7,7 +7,7 @@
 
 ####################     ON RADIOMY    ##########################
 
-#EXTINF:-1 tvg-id="CHN" group-title="ON RADIOMY"  group-logo="https://i.ibb.co/kc3yRKd/onrad.png" ch-number="828" tvg-logo="https://i.ibb.co/6R5zhKn/23b9fa60d48cd96820eeec7e59148ccb.jpg",Best Of TikTok
+#EXTINF:-1 tvg-id="CHN" group-title="ON RADIOMY"  group-logo="https://i.ibb.co/TgzJJcc/3rad.png" ch-number="828" tvg-logo="https://i.ibb.co/6R5zhKn/23b9fa60d48cd96820eeec7e59148ccb.jpg",Best Of TikTok
 http://node-10.zeno.fm:80/6cf3bsmbyf9uv
 
 #EXTINF:-1 tvg-id="CHN" group-title="ON RADIOMY" ch-number="829" tvg-logo="https://i.ibb.co/VxVPSVj/Radio-Klasik-logo.png",Melayu Klasik
@@ -52,7 +52,7 @@ https://mifntechnology.github.io/siaranMy/radio/JohorFm/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="ON MUSICTV" group-logo="https://i.ibb.co/f4gdmhz/onmtv.png" ,MTV Pluto TV
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="ON MUSICTV" group-logo="https://i.ibb.co/py6Qcqd/3mtv.png" ,MTV Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21f0e654-cec9-4722-a81b-dd17d02581d3&checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="ON MUSICTV",MTV Biggest Pop
@@ -69,7 +69,7 @@ https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8?checkedby:iptvcat.com
 
 ####################     ON TV    ##########################
 
-#EXTINF:-1 group-title="ON TV" tvg-id="DuniaSinema" tvg-name="DuniaSinema" group-logo="https://i.ibb.co/Thk2fXY/ontv.png" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
+#EXTINF:-1 group-title="ON TV" tvg-id="DuniaSinema" tvg-name="DuniaSinema" group-logo="https://i.ibb.co/TmBB1fg/3tv.png" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
@@ -100,7 +100,7 @@ https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.co
 
 ####################     ON KIDS    ##########################
 
-#EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-name="Anime All Day" group-logo="https://i.ibb.co/wMtjRTf/onkids.png" tvg-logo="https://i.postimg.cc/ZnbQj5qy/ANIME-ALL-DAY.webp" group-title="ON KIDS"  ,Anime Alldays
+#EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-name="Anime All Day" group-logo="https://i.ibb.co/PWBJFXH/3kids.png" tvg-logo="https://i.postimg.cc/ZnbQj5qy/ANIME-ALL-DAY.webp" group-title="ON KIDS"  ,Anime Alldays
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=dd4b&deviceDNT=0&deviceModel=0
 
 
@@ -122,6 +122,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 
 
+####################     ON STAR    ##########################
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
